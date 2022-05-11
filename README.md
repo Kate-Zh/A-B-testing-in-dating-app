@@ -1,4 +1,4 @@
-# A-B-testing-in-dating-service
+# A-B-testing-in-dating-app
 An academic project on interpretation of A/B test results
 Imagine we have a large dating application.
 In addition to the basic functions, the application also has a premium subscription, which gives access to a number of important additional features.
